@@ -1,0 +1,19 @@
+{
+  "name": "Torres al Toque",
+  "short_name": "Torres",
+  "description": "Apilá pisos con la grúa, lo que sobra se corta. ¿Hasta dónde llegás?",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#23262B",
+  "theme_color": "#23262B",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
